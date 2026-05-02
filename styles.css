@@ -1,26 +1,31 @@
 body {
-  background-color: #d3d3d3;
-  font-family: Verdana, Tahoma, sans-serif;
-  color: #000;
+  background-color: #7f5dde;
+  font-family: "Trebuchet MS", "Verdana", sans-serif;
+  color: #ffffff;
 }
 
 .container {
   width: 700px;
   margin: 40px auto;
-  background-color: #ffffff;
-  border: 2px solid #000;
+  background-color: #000000;
+  border: 2px solid #ffffff;
   padding: 15px;
 }
 
 header {
   text-align: center;
-  border-bottom: 2px solid #000;
+  border-bottom: 2px solid #ffffff;
   margin-bottom: 10px;
+}
+
+h1 {
+  font-family: "DIN Condensed", "Arial Narrow", sans-serif;
+  letter-spacing: 1px;
 }
 
 .tagline {
   font-size: 0.9em;
-  color: #555;
+  color: #cccccc;
 }
 
 nav {
@@ -29,17 +34,17 @@ nav {
 }
 
 nav a {
-  color: blue;
+  color: #ffffff;
   text-decoration: underline;
 }
 
 h2 {
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #ffffff;
 }
 
 footer {
   text-align: center;
   margin-top: 20px;
   font-size: 0.8em;
-  color: #555;
+  color: #cccccc;
 }
