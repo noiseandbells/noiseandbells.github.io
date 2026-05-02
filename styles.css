@@ -29,6 +29,7 @@ header .tagline {
 h1 {
   font-family: "DIN Condensed", "Arial Narrow", sans-serif;
   letter-spacing: 1px;
+  font-size: 36px;
 }
 
 .tagline {
