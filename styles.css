@@ -21,12 +21,9 @@ header {
   padding-top: 0;
 }
 
-header h1 {
-  margin-bottom: 0;
-  margin-top: 0;
-}
-
-header .tagline {
+.tagline {
+  font-size: 0.9em;
+  color: #cccccc;
   margin-top: 0;
 }
 
@@ -34,11 +31,12 @@ h1 {
   font-family: "DIN Condensed", "Arial Narrow", sans-serif;
   letter-spacing: 1px;
   font-size: 72px;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 
-.tagline {
-  font-size: 0.9em;
-  color: #cccccc;
+h2 {
+  border-bottom: 1px solid #ffffff;
 }
 
 nav {
@@ -49,10 +47,6 @@ nav {
 nav a {
   color: #ffffff;
   text-decoration: underline;
-}
-
-h2 {
-  border-bottom: 1px solid #ffffff;
 }
 
 footer {
