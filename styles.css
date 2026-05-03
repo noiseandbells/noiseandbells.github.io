@@ -65,6 +65,8 @@ nav a {
 .header-img {
   width: 120px;
   height: auto;
+  position: relative;
+  top: -15px;
 }
 
 footer {
