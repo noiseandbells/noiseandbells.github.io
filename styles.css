@@ -15,15 +15,16 @@ body {
 header {
   text-align: center;
   border-bottom: 2px solid #ffffff;
-  margin-bottom: 2px;
+  margin-bottom: 0;
   margin-top: 0;
   padding-top: 0;
+  padding-bottom: 0;
 }
 
 .tagline {
   font-size: 0.9em;
   color: #cccccc;
-  margin-top: 0;
+  margin-top: -15px;
 }
 
 h1 {
