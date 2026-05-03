@@ -49,6 +49,24 @@ nav a {
   text-decoration: underline;
 }
 
+.header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid #ffffff;
+  margin-bottom: 10px;
+}
+
+.header-text {
+  text-align: center;
+  flex-grow: 1;
+}
+
+.header-img {
+  width: 60px;   /* adjust size as needed */
+  height: auto;
+}
+
 footer {
   text-align: center;
   margin-top: 20px;
